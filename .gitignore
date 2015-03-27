@@ -1,0 +1,7 @@
+*
+!.bashrc
+!.vimrc
+!.vim/**
+!.screenrc
+!.vpncerts/**
+!.gitignore

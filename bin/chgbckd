@@ -1,0 +1,5 @@
+#! /bin/bash
+while [ 1 ]; do
+    sleep 300;
+    feh --randomize --bg-fill ~/Pictures/background_pics/tron_720p/*;
+done

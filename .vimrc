@@ -54,3 +54,5 @@ set smartcase
 :map <F8> :tabn<Enter>
 
 call pathogen#infect()
+" let g:racer_cmd = "<path-to-racer>/targer/release/racer"
+" let $RUST_SRC_PATH = " /home/brianb/.cargo/bin/racer"
